@@ -1,0 +1,33 @@
+{
+  "name": "turto-virtual-pet",
+  "version": "1.1.0",
+  "description": "A virtual pet game where you care for a turtle",
+  "main": "index.html",
+  "scripts": {
+    "serve": "vite",
+    "preview": "vite preview",
+    "build": "vite build --base=./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morph-games/turto-virtual-pet.git"
+  },
+  "keywords": [
+    "game",
+    "svg",
+    "svg-animation",
+    "virtual-pet",
+    "ludum-dare-46",
+    "turtle"
+  ],
+  "author": "Luke Nickerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morph-games/turto-virtual-pet/issues"
+  },
+  "homepage": "https://github.com/morph-games/turto-virtual-pet#readme",
+  "devDependencies": {
+    "vite": "^6.3.5",
+    "rocket-boots-eslint": "github:rocket-boots/rocket-boots-eslint"
+  }
+}

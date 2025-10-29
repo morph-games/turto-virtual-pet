@@ -4,5 +4,5 @@ A virtual pet game, inspired by Tamagotchi. Originally created in a weekend in A
 
 Ludum Dare entry: https://ldjam.com/events/ludum-dare/46/turto-virtual-pet
 
-Play latest release on itch: TBD
-Play latest code here: TBD
+Play latest release on itch: https://deathray.itch.io/turto
+Play latest code here: https://morph-games.github.io/turto-virtual-pet/
